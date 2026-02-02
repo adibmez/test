@@ -1,2 +1,6 @@
-print("Hello!")
-#Output: Hello
+def say_hello():
+    print("Hello")
+
+say_hello()
+
+#Hello
